@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1509355542 source:c:\users\harun\documents\code blocks\muro\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1509715279 source:h:\ders\prolab1\2\muro\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
